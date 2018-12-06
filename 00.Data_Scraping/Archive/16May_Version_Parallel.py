@@ -1,0 +1,291 @@
+#!/usr/bin/env python
+
+import sys
+import signal
+import time
+import pandas as pd
+from bs4 import BeautifulSoup
+import pickle
+import logging
+logging.basicConfig(level=logging.INFO)
+import multiprocessing as mp
+
+# Import WebDriver components
+from selenium import webdriver
+from selenium.webdriver.support.ui import Select
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import StaleElementReferenceException
+from selenium.common.exceptions import TimeoutException
+from selenium.common.exceptions import NoSuchElementException
+
+
+def sigint(signal, frame):
+    sys.exit(0)
+
+class Scraper(object):
+    
+    def __init__(self):
+        self.url = 'http://www.wbsec.gov.in/(S(gsdpcmtsu0cmarkujc1d12nd))/ContestingCandidates/ShowCandidatesGP2018.aspx'
+        self.driver = webdriver.Firefox()
+        #self.driver.implicitly_wait(100)
+
+    #--- Hold-off function
+    def hold_off(self, element_id, wait_period):
+        
+        '''
+        Make the webdriver wait for element_id to appear with 
+        a timeout limit of wait_period
+        '''
+
+        WebDriverWait(self.driver, wait_period).until(
+            EC.presence_of_element_located((By.ID, element_id))
+            )
+        
+    #----  District selection---------------------------------
+    def get_district_select(self):
+        path = '//select[@id="ddldistrict"]'
+        WebDriverWait(self.driver, 20).until(
+            EC.presence_of_element_located((By.ID, 'ddldistrict'))
+            )
+        district_select_elem = self.driver.find_element_by_xpath(path)
+        district_select = Select(district_select_elem)
+        return district_select
+
+    def select_district_option(self, value):
+        '''
+        Select district value from dropdown. 
+        Wait until the block dropdown has loaded before returning.
+        '''
+        
+        path =  '//select[@id="ddlblock"]'
+        block_select_elem = self.driver.find_element_by_xpath(path)
+
+        district_select = self.get_district_select()
+        district_select.select_by_value(value)
+
+        WebDriverWait(self.driver, 20).until(
+            EC.staleness_of(block_select_elem)
+            )
+
+        return self.get_district_select()
+
+    #--- Block Selection ------------------------------------------------
+    def get_block_select(self):
+        path = '//select[@id="ddlblock"]'
+        WebDriverWait(self.driver, 20).until(
+            EC.presence_of_element_located((By.ID, 'ddlblock'))
+            )
+        block_select_elem = self.driver.find_element_by_xpath(path)
+        block_select = Select(block_select_elem)
+        return block_select
+
+    def select_block_option(self, value):
+        '''
+        Select Block value from dropdown.
+        Wait until GP value has loaded before returning.
+        '''
+
+        path = '//select[@id="ddlGP"]'
+        
+        WebDriverWait(self.driver, 20).until(
+            EC.presence_of_element_located((By.ID, 'ddlGP'))
+            )
+        gp_select_elem = self.driver.find_element_by_xpath(path)
+
+        block_select = self.get_block_select()
+        block_select.select_by_value(value)
+
+        WebDriverWait(self.driver, 20).until(
+            EC.staleness_of(gp_select_elem)
+            )
+
+        return self.get_block_select()
+
+    #-- GP Selection -------------------------------------------------------
+    def get_gp_select(self):
+        path = '//select[@id="ddlGP"]'
+        WebDriverWait(self.driver, 40).until(
+            EC.presence_of_element_located((By.ID, 'ddlGP'))
+            )
+        gp_select_elem = self.driver.find_element_by_xpath(path)
+        gp_select = Select(gp_select_elem)
+        return gp_select
+
+    def select_gp_option(self, value, dowait = True):
+        '''
+        Select GP value from dropdown.
+        Wait until EDate value has loaded before returning.
+        '''
+
+        path = '//select[@id="DropDownList1"]'
+        
+        WebDriverWait(self.driver, 200).until(
+            EC.presence_of_element_located((By.ID, 'DropDownList1'))
+            )
+        
+        date_select_elem = self.driver.find_element_by_xpath(path)
+
+        gp_select = self.get_gp_select()
+        gp_select.select_by_value(value)
+
+        WebDriverWait(self.driver, 20).until(
+            EC.staleness_of(date_select_elem)
+            )
+
+
+        return self.get_gp_select()
+
+    #--Date Selection ---------------------------------------------------------
+    def get_date_select(self):
+        path = '//select[@id="DropDownList1"]'
+        
+        WebDriverWait(self.driver, 40).until(
+            EC.presence_of_element_located((By.ID, 'DropDownList1'))
+            )
+        date_select_elem = self.driver.find_element_by_xpath(path)
+        date_select = Select(date_select_elem)
+        return date_select
+
+    def select_date_option(self, value, dowait = False):
+        '''
+        Select date value from dropdown.
+        Wait for table to get updated.
+        '''
+        date_select = self.get_date_select()
+        date_select.select_by_value(value)
+        
+        path = '//select[@id="DropDownList1"]'
+        table_elem = self.driver.find_element_by_xpath(path)
+        time.sleep(2)
+        return self.get_date_select()
+
+    #-- Main Scraping code ---------------------------
+    def load_page(self):
+        self.driver.get(self.url)
+        window_before = self.driver.window_handles[0]
+        path = "//a[@href='ContestingCandidates/ShowCandidatesGP2018.aspx']"
+        self.driver.find_element_by_xpath(path).click()
+        time.sleep(5)
+        window_after = self.driver.window_handles[1]
+        self.driver.switch_to_window(window_after)
+
+        # Check that the page has fully loaded
+        
+        WebDriverWait(self.driver, 20).until(
+            EC.presence_of_element_located((By.ID, 'ddldistrict'))
+            )
+
+    def scrape(self):
+        def districts_list():
+            district_select = self.get_district_select()
+            district_select_option_values = [ 
+            '%s' % o.get_attribute('value') 
+            for o in district_select.options][1:]
+            return district_select_option_values
+
+        def blocks():
+            block_select = self.get_block_select()
+            block_select_option_values = [ 
+                '%s' % o.get_attribute('value') 
+                for o 
+                in block_select.options][1:]
+
+            for v in block_select_option_values:
+                block_select = self.select_block_option(v)
+                yield block_select.first_selected_option.text
+
+        def gps():
+            gp_select = self.get_gp_select()
+            gp_select_option_values = [ 
+                '%s' % o.get_attribute('value') 
+                for o 
+                in gp_select.options][1:]
+
+            for v in gp_select_option_values:
+                gp_select = self.select_gp_option(v)
+                yield gp_select.first_selected_option.text
+
+        def dates():
+            date_select = self.get_date_select()
+            date_select_option_values = [ 
+                '%s' % o.get_attribute('value') 
+                for o 
+                in date_select.options][1:]
+
+            for v in date_select_option_values:
+                date_select = self.select_date_option(v)
+                yield date_select.first_selected_option.text
+
+            
+        # Call the scraping functions
+        
+        # Create a queue for the parallel output
+        output = mp.Queue()
+
+        # Arguments for parallelized function
+        district_input_list =  ['1','a']
+        print(district_input_list)
+        district_input_list2 =  districts_list()
+        print(district_input_list2)
+        str(district_input_list2)
+
+        # Define ancillary functions to 
+        def table_extract(district, block, gp, date, entry_id):
+            soup_level1 = BeautifulSoup(self.driver.page_source, 'lxml')
+            table = soup_level1.find_all('table')[0]
+            df = pd.read_html(str(table), skiprows = 7, header = 0)
+            df = df[0]
+            df = df.filter(regex = '^((?!Unnamed).)*$', axis = 1)
+               #Negative filtering on string'Unnamed'
+            df['District'] = district
+            df['Block'] = block
+            df['GP'] = gp
+            df['date'] = date
+            df['Status'] = "Success"
+            df['EntryID'] = entry_id
+
+
+        def result_export(df, filename):
+            result = pd.concat([pd.DataFrame(df[i]) for i in
+                                range(len(df))],ignore_index=True)
+            result.to_csv(filename, header = True, encoding = 'utf-8')
+
+
+        # Define the Parallelized Function
+        def parallel_fn(district_input):
+
+            def district_serve(district_input):
+                 district_select = self.select_district_option(district_input)
+                 yield district_select.first_selected_option.text
+        
+            for district in district_serve(district_input):
+                for block in blocks():
+                    for gp in gps():
+                        for date in dates():
+                            entry_id = district + '-' + block + '-' + gp + '-' + date
+                            table_extract(district, block, gp, date, entry_id)
+
+        # Call the parallelized function 
+        self.load_page()
+        print("Now here")
+        pool = mp.Pool(processes=2)
+        results = [pool.apply(parallel_fn, args=(district_input_list,))] 
+        results[:1]
+        #result_export(datalist,'scraped_data_4.csv')
+
+        #self.driver.quit()
+                        
+if __name__ == '__main__':
+    signal.signal(signal.SIGINT, sigint)
+    scraper = Scraper()
+    scraper.scrape()
+
+
+
+            
+        
+        
+        
+        

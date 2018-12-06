@@ -1,0 +1,2046 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"non",
+				"non_incumb_contest_"
+			],
+			[
+				"winne",
+				"winner_serious_criminal"
+			],
+			[
+				"mean",
+				"mean_ward_non_aitc_comp_2018"
+			],
+			[
+				"tot",
+				"total_winners"
+			],
+			[
+				"winn",
+				"winner_2014"
+			],
+			[
+				"con",
+				"constituency_no"
+			],
+			[
+				"ass",
+				"assembly_no"
+			],
+			[
+				"aitc",
+				"aitc_2018"
+			],
+			[
+				"drop",
+				"drop_miss_gp"
+			],
+			[
+				"drop_",
+				"drop_miss_ward"
+			],
+			[
+				"miss",
+				"miss_ward_prop_2018"
+			],
+			[
+				"ward",
+				"ward_count"
+			],
+			[
+				"mi",
+				"missing_2013"
+			],
+			[
+				"total",
+				"total_2013"
+			],
+			[
+				"pro",
+				"processed_data"
+			],
+			[
+				"alloca",
+				"allocation_index"
+			],
+			[
+				"random",
+				"random_num_1"
+			],
+			[
+				"allo",
+				"allocation_inndex"
+			],
+			[
+				"rand",
+				"random_num_1"
+			],
+			[
+				"rando",
+				"random_num_1"
+			],
+			[
+				"quar",
+				"quart_att"
+			],
+			[
+				"sd",
+				"sd_att"
+			],
+			[
+				"att",
+				"attendance_qrt"
+			],
+			[
+				"merge",
+				"merge_1"
+			],
+			[
+				"merg",
+				"merge_2"
+			],
+			[
+				"data",
+				"data_source"
+			],
+			[
+				"str",
+				"strtrim"
+			],
+			[
+				"shee",
+				"sheet_"
+			],
+			[
+				"forv",
+				"forvalues"
+			],
+			[
+				"di",
+				"district"
+			],
+			[
+				"aw",
+				"aw_full_list"
+			],
+			[
+				"out",
+				"outcome_index"
+			],
+			[
+				"Av",
+				"AvBsample"
+			],
+			[
+				"bvc",
+				"bvc_i"
+			],
+			[
+				"a",
+				"avb_i"
+			],
+			[
+				"avc",
+				"avc_i"
+			],
+			[
+				"dep",
+				"dependency_list"
+			],
+			[
+				"bala",
+				"balance_graphs"
+			],
+			[
+				"blan",
+				"balance_graphs"
+			],
+			[
+				"balan",
+				"balance_vars"
+			],
+			[
+				"AvC",
+				"AvCsample"
+			],
+			[
+				"outc",
+				"outcome"
+			],
+			[
+				"outcome",
+				"outcome_count"
+			],
+			[
+				"ins",
+				"insample_n"
+			],
+			[
+				"insample",
+				"insample_n"
+			],
+			[
+				"insamp",
+				"insample_n"
+			],
+			[
+				"insam",
+				"insample_2"
+			],
+			[
+				"expo",
+				"export_target"
+			],
+			[
+				"summary",
+				"summary_n"
+			],
+			[
+				"pack",
+				"packB"
+			],
+			[
+				"Candi",
+				"Candidate_Clean"
+			],
+			[
+				"Parl",
+				"Parliamentary_Constituency_No"
+			],
+			[
+				"candidat",
+				"candidate_names"
+			],
+			[
+				"tcpd",
+				"tcpd_data_clean"
+			],
+			[
+				"Cand",
+				"Candidate_Clean"
+			],
+			[
+				"Candidat",
+				"Candidate_"
+			],
+			[
+				"Candid",
+				"Candidate_"
+			],
+			[
+				"avc_",
+				"avc_stars"
+			],
+			[
+				"summ",
+				"summary_sd"
+			],
+			[
+				"var",
+				"var_count"
+			],
+			[
+				"row",
+				"row_plus"
+			],
+			[
+				"mat",
+				"mat_row"
+			],
+			[
+				"summa",
+				"summary_vars"
+			],
+			[
+				"Stata",
+				"StatTotal"
+			],
+			[
+				"summar",
+				"Summary"
+			],
+			[
+				"pote",
+				"potential_treatment_villages"
+			],
+			[
+				"cli",
+				"climatic_zone"
+			],
+			[
+				"ent",
+				"entry_id"
+			],
+			[
+				"block_",
+				"block_key"
+			],
+			[
+				"dist",
+				"dist_status_get"
+			],
+			[
+				"load",
+				"load_saved_data"
+			],
+			[
+				"district_input",
+				"district_input_list2"
+			],
+			[
+				"district_inp",
+				"district_input_list"
+			],
+			[
+				"paralle",
+				"parallel_fn"
+			],
+			[
+				"vector",
+				"vector_out"
+			],
+			[
+				"strat",
+				"strata_mean"
+			],
+			[
+				"strata",
+				"strata_rank"
+			],
+			[
+				"stra",
+				"strata_mean"
+			],
+			[
+				"error",
+				"error_norm_1"
+			],
+			[
+				"est",
+				"est_mortality"
+			],
+			[
+				"true",
+				"true_mortality"
+			],
+			[
+				"cond",
+				"cond2"
+			],
+			[
+				"c",
+				"condition1"
+			],
+			[
+				"pup",
+				"pupil_obs_trigger"
+			],
+			[
+				"grade",
+				"grade_string"
+			],
+			[
+				"sc",
+				"school_code"
+			],
+			[
+				"grad",
+				"grade_listing"
+			],
+			[
+				"class",
+				"class_section_unique"
+			],
+			[
+				"class_se",
+				"class_section_unique"
+			],
+			[
+				"sec",
+				"section_count_index"
+			],
+			[
+				"faci",
+				"facility_section"
+			],
+			[
+				"pupil",
+				"pupil_obs_count"
+			],
+			[
+				"uplo",
+				"upload_delay"
+			],
+			[
+				"div",
+				"division_name"
+			],
+			[
+				"by",
+				"bysort"
+			],
+			[
+				"divi",
+				"division_name"
+			],
+			[
+				"Ge",
+				"General_Flag"
+			],
+			[
+				"iter",
+				"iter2"
+			],
+			[
+				"Indi",
+				"Indicator_num"
+			],
+			[
+				"cat",
+				"cat_grade"
+			],
+			[
+				"gr",
+				"grade_cat_string"
+			],
+			[
+				"uniq",
+				"unique_section_count"
+			],
+			[
+				"facil",
+				"facility_grade"
+			],
+			[
+				"grade_ca",
+				"grade_cat_string"
+			],
+			[
+				"sect",
+				"sect_h\tstata_section"
+			],
+			[
+				"tem",
+				"temp_school_key"
+			],
+			[
+				"temp",
+				"tempfile"
+			],
+			[
+				"schoo",
+				"school"
+			],
+			[
+				"sch",
+				"school"
+			],
+			[
+				"grade_c",
+				"grade_cat_string"
+			],
+			[
+				"qual",
+				"qual_grade_13"
+			],
+			[
+				"po",
+				"potential_qual"
+			],
+			[
+				"teacher",
+				"teacher_permit"
+			],
+			[
+				"len",
+				"len_grad13"
+			],
+			[
+				"facility",
+				"facility_grade"
+			],
+			[
+				"facili",
+				"facility_grade"
+			],
+			[
+				"hw",
+				"hw_type"
+			],
+			[
+				"obser",
+				"observer_name"
+			],
+			[
+				"divis",
+				"division_name"
+			],
+			[
+				"toil",
+				"toilet_class"
+			],
+			[
+				"toilet",
+				"toilet_dummy"
+			],
+			[
+				"fac",
+				"facility_error"
+			],
+			[
+				"log",
+				"logdate"
+			],
+			[
+				"mas",
+				"master_unmatched"
+			],
+			[
+				"master",
+				"master_unmatched"
+			],
+			[
+				"mer",
+				"merge_fac_class"
+			],
+			[
+				"mast",
+				"master_unmatched"
+			],
+			[
+				"dupe",
+				"dupe_index_grade"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "01.Analysis_01.do",
+			"settings":
+			{
+				"buffer_size": 11158,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Please form a group of everybody who's interested to help-- we're looking for 4-5 people who can't speak Malayalam, and a separate group for people who speak Malayalam (again 4-5 people). I'll share the resources in those groups.\n\nBelow is a brief into the areas where we need support.\n\n#1: Official chat helpline: \n\nThis is one bit where we need help:\n\nThe Govt of Kerala has launched a chat helpline to help people in need via their official rescue website https://keralarescue.in/\n\nThe chat helpline is manned by volunteers 24*7. We need people who speak malayalam and english to help us out on this chat service.\n \n\n# 2: Mapping relief shelters\n\nThis is the second bit (you don't need to know Malayalam for this):\n\n\nWe're trying to create a map of rescue and relief shelters all over Kerala. Google has already curated a bunch of such places on their map here (https://www.google.com/maps/d/u/0/viewer?mid=1DtDap-r23FTq1ns7xdsEHIiYe63SvGVl&ll=9.650175834817174%2C76.53152343413296&z=21).\n\nHowever, we can't export the coordinates of these shelters from those maps. We need information on coordinates to map stranded people to the shelters closest to them via the official government portal https://keralarescue.in/.\n\nI need volunteer support to collect the coordinates of these shelters and to enter it in a separate Google Sheet here: https://docs.google.com/spreadsheets/d/1Ch-i5bFZdfOF_5HEI49_Vwf85yEQhm5a6MczBh6S3FY/edit?usp=sharing\n\nThe google sheet above contains all details to come up to pace.\n\n\nHi all,\n\nTo help people who are stranded in the Kerala floods, we're running a helpline. We receive thousands of rescue requests via the helpine, whatsapp and facebook everyday. A lot of these messages do not have location coordinates.\n\nWe need help to manually find and record the coordinates for these messages. A couple of hours of google map searches on your computer can help our rescue teams reach and save the people of Kerala faster.\n\nHere's an invite link to Whatsapp group we're using to coordinate: \n\nMapping Group Invite: https://chat.whatsapp.com/49rrDniqTu40q6lGuHMpg3\n\nYou can reach me at +91 9971793218",
+			"settings":
+			{
+				"buffer_size": 2126,
+				"line_ending": "Unix",
+				"name": "Please form a group of everybody who's interested"
+			}
+		},
+		{
+			"contents": "Mapping Group Invite: https://chat.whatsapp.com/49rrDniqTu40q6lGuHMpg3\n\n24*7 Chat Helpline Group Invite: https://chat.whatsapp.com/2H6V6G3KN4CHCDpqgO4SHh\n\n## Join the chat group only if you can speak Malayalam\n\n\n\n\n\n\nHey, please keep forwarding the instructions every time a new batch of volunteers join. Ok?",
+			"settings":
+			{
+				"buffer_size": 307,
+				"line_ending": "Unix",
+				"name": "Mapping Group Invite: https://chat.whatsapp.com/49"
+			}
+		},
+		{
+			"contents": "Guys,\n\nThanks a ton for all the effort you have put in. I know it has been a very difficult couple of days. I also understand that the tech platform and website we used could have been better.\n\nLooking forward, what I think would be the main challenge in coming days, is calls about missing individuals and rescued individuals. A lot of us answered a lot of calls like this today-- we can expect a lot more in the coming days.\n\nOur current platform does not yet support updating the status of rescue requests, or properly display critical information such as GPS coordinates and phone numbers. For this reason, we will move all our operations over to the keralafights.com website.\n\nThis will not change our work-flow in any way. Instead of using keralrescue to enter requests and to search for info, we will now use keralafights.com. keralafights allows us to update the status of requests continuously and to add comments etc. \n\nWe will share more details on this shift soon. ",
+			"settings":
+			{
+				"buffer_size": 977,
+				"line_ending": "Unix",
+				"name": "Guys,"
+			}
+		},
+		{
+			"contents": "Ms Latha,\n\nAs per our call  the keralarescue.in team needs help on two fronts. Details below\n\n1. Chat helpline (for Malayalam speakers)\n\nWe are running a chat helpline at keralarescuesupport.com. This involves directing people who need help to their nearest rescue team/ help centres  by sharing contacts, or raising queries with the authorities. The data collected via this helpline also feeds into a real-time map which is used by rescue teams to target their operations.\n\nSkills needed: Computer with internet access, smart phonne, and fluency in Malayalam.\n\nInstructions: https://docs.google.com/document/d/1aINPMsOrxqNlsX7UHeVfTmCF8wE78X7rYSJC5Z-3X8U/edit#heading=h.fx5bjht1muih\n\n24*7 Chat Helpline Whatsapp Group Invite: https://chat.whatsapp.com/2H6V6G3KN4CHCDpqgO4SHh\n\n2. Data consolidation team (any language, any timezone, foreigners welcome)\n\nAs the next step after rescue activities, we are trying to create a database of all the rescued people in different camps. This list of people is often sent to us in the form of photographs. We require your assistance to convert this into a searchable form by manually entering the details from the photographs into a Google sheets document.\n\nData Consolidation Whatsapp Group Invite: https://chat.whatsapp.com/49rrDniqTu40q6lGuHMpg3\n\nSkills needed: Computer with internet access, and smart phone. \n\nInstructions: To follow.\n\n",
+			"settings":
+			{
+				"buffer_size": 1380,
+				"line_ending": "Unix",
+				"name": "Ms Latha,"
+			}
+		},
+		{
+			"file": "/Users/paulpj/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts/01.Data_Cleaning/07.My_Neta_Clean.do",
+			"settings":
+			{
+				"buffer_size": 1592,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "/*\n12 June 2018\n\nProject Name: West Bengal Election Analysis\n\nFile Name: clean_assembly_constituency\n\nPurpose: Clean the 2011,2016 assembly constituency data. Merge in the 2014 data\n\nAuthor: PJ Paul\n\nPurpose of the do file (in detail): \n\nSteps:\n\nUser written packages:\n\nUser information: The user will need to change the GoogleDrive path once.\n\n==================================================================\n\n*/\n\n\n*---------------------------------------------------------------------------------------\n*I Settings\n*---------------------------------------------------------------------------------------\n\tclear\n\tpostutil clear\n\tset more off \n\tpause on\n\n\t***** 1. User Parameters *****\n\t\t* Paul\t\t\t\t    1\n\t\t* [Name]\t\t        2\n\t\t* [Name]\t\t\t\t3\n\t***************************\n\t\t\t\n\tglobal DB \"/Users/paulpj/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018\"\n\tglobal processed_data \"${DB}/Processed_Data\"\n\tglobal data_hand_clean \"${DB}/Processed_Data/Data_for_Hand_Clean\"\n\tglobal data_ward \"${DB}/Processed_Data/00.Ward_Data_2013_2018\"\n\tglobal data_map \"${DB}/Processed_Data/02.Map_Extracted_Data\"\n\tglobal data_ac \"${DB}/Raw_Data/Election_Data_AC_2011_2016\"\n\tglobal data_myneta \"${DB}/Data/MyNeta_Scrape\"\n\tlocal ward_merged  \"${data_ward}/merged_wards_2013_18.csv\"\n\n\tcd \"${processed_data}/03.Election_Data\"\n\n\n\n*---------------------------------------------------------------------------------------\n* II. Load and clean the 2011-2016 AC election results dataset\n*---------------------------------------------------------------------------------------\n\t\n\timport delimited using \"${data_ac}/WB_Assembly_2011_2016.csv\", clear\n\n\tkeep if year == 2011 | year == 2016 // Drop all by-election results [#Pending]\n\tclonevar ac_constituency_no = constituency_no\n\n\t* Add variable identifying the incumbent party\n\tgen winner = \".\"\n\n\tbysort ac_constituency_no: replace winner = party if position == 1\n\tseparate winner, by(year)\n\n\t* Retain needed variables and save dataset\n\tdrop winner\n\tkeep year ac_constituency_no party n_cand vote_share_percentage winner*\n\ttempfile ac_2011_16\n\tsave `ac_2011_16'\n\n\t*year          month         assembly_no   party         n_cand        turnout_pe~e  vote_share~e  margin_per~e\n\n*---------------------------------------------------------------------------------------\n* III. Load and clean the '2014 LS election at AC level' dataset\n*---------------------------------------------------------------------------------------\n\n\tuse \"${processed_data}/03.Election_Data/01.WB_2014_LokSabha_AC_Level_Clean.dta\", clear \n\tdrop constituency_no constituency_name\n\tclonevar ac_constituency_no = Assembly_Constituency_No\n\tgen n_cand = .\n\tbysort ac_constituency_no: replace n_cand = _N\n\tbysort ac_constituency_no: egen total_vote = total(Votes)\n\tgen vote_share_percentage = (Votes*100)/total_vote\n\tkeep year ac_constituency_no party n_cand vote_share_percentage \n\n\t* Identify winner using vote share\n\tgen winner2014 = \".\"\n\tbysort ac_constituency_no(vote_share_percentage): replace winner2014 = party[_N]\n\n\n\ttempfile ls2014_ac_level\n\tsave `ls2014_ac_level'\n\n*---------------------------------------------------------------------------------------\n* IV. Append the two files\n*---------------------------------------------------------------------------------------\n\tuse `ac_2011_16', clear\n\tappend using `ls2014_ac_level'\n\n\t* CLean up the winner variables\n\tsort ac_constituency_no winner2011\n\tby ac_constituency_no: replace winner2011 = winner2011[_N]\n\n\tsort ac_constituency_no winner2016\n\tby ac_constituency_no : replace winner2016 = winner2016[_N]\n\n\tsort ac_constituency_no winner2014\n\tby ac_constituency_no: replace winner2014 = winner2014[_N]\n\n\t*Recode the winner variable\n\tencode winner2011, gen(d_winner2011)\n\tencode winner2014, gen(d_winner2014)\n\tencode winner2016, gen(d_winner2016)\n\n\t* Clean and format the appended files\n\tkeep if party == \"BJP\" | party == \"AITC\" | ///\n\t\t | party == \"CPI\" | party == \"CPM\" | party == \"INC\" \n\ttostring(year), gen(str_year)\n\tgen party_year = str_year + \"_\" + party\n\tduplicates tag ac_constituency_no party_year, gen(party_year_dupe)\n\tdrop if party_year_dupe // Come back and correct these\n\t*br if party_year_dupe\n\tdrop year str_year party\n\treshape wide n_cand vote_share, i(ac_constituency_no) j(party_year) string\n\ttempfile ac_11_14_16\n\tsave `ac_11_14_16'\n*---------------------------------------------------------------------------------------\n* V. Merge in the ward-level data\n*---------------------------------------------------------------------------------------\n\tuse \"${processed_data}/02.Ward_GP_Geo_AC_Merge/merged_ward_ac\", clear\n\tclonevar ac_constituency_no= constituency_no\n\tmerge m:1 ac_constituency_no using `ac_11_14_16', gen(ward_ac_election_merge)\n\t/*\n\t\t   Result                           # of obs.\n    -----------------------------------------\n    not matched                            41\n        from master                         0  (ward_ac_election_merge==1)\n        from using                         41  (ward_ac_election_merge==2)\n\n    matched                            46,468  (ward_ac_election_merge==3)\n    -----------------------------------------\n\n\t*/\n\tkeep if ward_ac_election_merge == 3\n\tsave \"${processed_data}/03.Election_Data/02.ward_ac11_16_ls14_merged.dta\", replace\n\n\n\n\n\n",
+			"file": "/Users/paulpj/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts/01.Data_Cleaning/05.clean_assembly_constituency.do",
+			"file_size": 4994,
+			"file_write_time": 131783548821137105,
+			"settings":
+			{
+				"buffer_size": 5262,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Stata Improved Editor/Stata.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Stata Improved Editor/Stata.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"snippet",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"snippets",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Search",
+				"File: Search Files"
+			],
+			[
+				"search",
+				"File: Search Files"
+			],
+			[
+				"term",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"termin",
+				"Terminal: Open"
+			],
+			[
+				"late",
+				"LaTeXBox: View PDF"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pand",
+				"Pandoc"
+			],
+			[
+				"cheatsheet",
+				"Cheatsheet: JIRA"
+			],
+			[
+				"pando",
+				"Pandoc"
+			],
+			[
+				"terminal",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"t",
+				"Terminal: Open"
+			],
+			[
+				"stat ",
+				"Set Syntax: Stata"
+			],
+			[
+				"p",
+				"Pandoc"
+			],
+			[
+				"package res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/paulpj/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Processed_Data",
+		"/Users/paulpj/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Processed_Data/04.MyNeta_Data",
+		"/Users/paulpj/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts",
+		"/Users/paulpj/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts/01.Data_Cleaning"
+	],
+	"file_history":
+	[
+		"/Users/paulpj/Library/Application Support/Sublime Text 3/Packages/User/Snippets/sect_h.sublime-snippet",
+		"/Users/paulpj/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts/02.Data_Analysis/Archive/01.Analysis_1.do",
+		"/Users/paulpj/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts/01.Data_Cleaning/07.My_Neta_Clean.do",
+		"/Users/paulpj/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts/01.Data_Cleaning/06.My_Neta_Merge.do",
+		"/Users/paulpj/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts/01.Data_Cleaning/05.clean_assembly_constituency.do",
+		"/Users/paulpj/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts/01.Data_Cleaning/04.clean_WB_LS_AC_Level_2014.do",
+		"/Users/paulpj/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts/01.Data_Cleaning/03.merge_ward_gp-Geo_Census_AC.do",
+		"/Users/paulpj/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts/01.Data_Cleaning/02.map_data_extraction.sql",
+		"/Users/paulpj/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts/01.Data_Cleaning/01.map_db_setup.sql",
+		"/Users/paulpj/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts/01.Data_Cleaning/00.clean_ward_data.py",
+		"/Users/paulpj/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts/01.Data_Cleaning/03.map_data_extraction.sql",
+		"/Users/paulpj/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts/01.Data_Cleaning/02.map_db_setup.sql",
+		"/Users/paulpj/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts/01.Data_Cleaning/04.merge_EC_gp_Census_AC.do",
+		"/Users/paulpj/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts/01.Data_Cleaning/06.clean_assembly_constituency.do",
+		"/Users/paulpj/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts/01.Data_Cleaning/05.merge_EC_gp_Census_AC.do",
+		"/Users/paulpj/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts/01.Data_Cleaning/04.merge_ward_census_panchayat_21June.do",
+		"/Users/paulpj/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Data_Pipeline_README.txt",
+		"/Users/paulpj/GoogleDrive/Writing/Personal_Writings/Blogs/IDi-Internal/ICC_Power.mdown",
+		"/Users/paulpj/Dropbox (IDinsight)/00.Seva_Mandir/01.IDinsight_Documents/01.Power_Calculations/02.Do_Files/02.09July_Final_Randomization.do",
+		"/Users/apple/Dropbox (IDinsight)/00.Seva_Mandir/09.References/09.Power_Calcs/AEJApp-2008-0182_data/Programs/stratification.do",
+		"/Users/apple/Downloads/00.Data_Cleaning_PJP_27June.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus_Publication/999.PJP_Folder/Do_Files/Plexus_Analysis_v9.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus_Publication/999.PJP_Folder/Do_Files/References/Dan_matching_comments_15June.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus_Publication/999.PJP_Folder/Do_Files/Table_04_MatchingEstimates_PJP_27June.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus_Publication/999.PJP_Folder/Do_Files/Table_03_IntensiveMargin_PJP_12June.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus_Publication/999.PJP_Folder/Do_Files/Table_02_ITT_Regressions_PJP_12June.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus_Publication/999.PJP_Folder/Do_Files/Table_01_SummaryStats_PJP_07June.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus_Publication/999.PJP_Folder/Do_Files/Table_04_MatchingEstimates_PJP_14June.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus_Publication/999.PJP_Folder/Do_Files/201806261254 .md",
+		"/Users/apple/Dropbox (IDinsight)/Plexus_Publication/999.PJP_Folder/Do_Files/References/Qayam_Putexcel.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus_Publication/999.PJP_Folder/Do_Files/References/DT_Putexcel.do",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/1. Evidence Generation (Science)/Do files for review/CC Fry Experiment Master Do File.do",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/1. Evidence Generation (Science)/Do files for review/CC Fry Individual Weight Scatterplot 2018-05-31 MS.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus_Publication/1. Tiered Farmer Support/12.PJP_Do_Files/parallel_loop.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus_Publication/1_Tiered_Farmer_Support/12.PJP_Do_Files/References/DT_Putexcel.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus_Publication/1_Tiered_Farmer_Support/12.PJP_Do_Files/References/Qayam_Putexcel.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus_Publication/1. Tiered Farmer Support/12.PJP_Do_Files/Table_01_SummaryStats_PJP_07June.do",
+		"/Users/apple/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts/01.Data_Cleaning/clean_WB_LS_AC_Level_2014.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus_Publication/1_Tiered_Farmer_Support/12.PJP_Do_Files/Table_01_SummaryStats_PJP_07June.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus_Publication/1_Tiered_Farmer_Support/12.PJP_Do_Files/random.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus_Publication/999.PJP_Folder/Analysis_Regressions_v2.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus_Publication/1_Tiered_Farmer_Support/4. Analysis/1. Do Files/Preparing Diff-in-Diff Datasets.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus_Publication/1_Tiered_Farmer_Support/4. Analysis/1. Do Files/Plexus_Analysis_v9.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus publication/999.PJP_Folder/Analysis_Regressions_v2.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus publication/1. Tiered Farmer Support/4. Analysis/1. Do Files/Cleaning_2016data.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus publication/1. Tiered Farmer Support/4. Analysis/1. Do Files/Cleaning_2017data.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus publication/1. Tiered Farmer Support/4. Analysis/1. Do Files/Plexus_Analysis_v9.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus publication/1. Tiered Farmer Support/4. Analysis/1. Do Files/Plexus_Final_Cleaning_v4.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus publication/1. Tiered Farmer Support/4. Analysis/1. Do Files/Preparing Diff-in-Diff Datasets.do",
+		"/Users/apple/Dropbox (IDinsight)/PJ Paul_Admin Folder/PSM_VS_Matching/psm_matching.do",
+		"/Users/apple/GoogleDrive/Latex_Templates/math_uwaterloo.tex",
+		"/Users/apple/Library/Application Support/Sublime Text 3/Packages/Cheatsheet/database/tools/issue-tracking/jira.cheatsheet",
+		"/Users/apple/Google Drive (pjpaul.stephens@gmail.com)/Personal_Projects/WestBengal_Elections_May2018/Scripts/17May_Cache_Version.py",
+		"/Users/apple/Google Drive (pjpaul.stephens@gmail.com)/Personal_Projects/WestBengal_Elections_May2018/Scripts/dist_status.pickle",
+		"/Users/apple/Google Drive (pjpaul.stephens@gmail.com)/Personal_Projects/WestBengal_Elections_May2018/Scripts/15May_Version1.py",
+		"/Users/apple/Google Drive (pjpaul.stephens@gmail.com)/Personal_Projects/WestBengal_Elections_May2018/Scripts/test_1.csv",
+		"/Users/apple/Google Drive (pjpaul.stephens@gmail.com)/Personal_Projects/WestBengal_Elections_May2018/Scripts/Testfile.py",
+		"/Users/apple/Google Drive (pjpaul.stephens@gmail.com)/Personal_Projects/WestBengal_Elections_May2018/Scripts/16May_Version_Parallel.py",
+		"/Users/apple/Google Drive (pjpaul.stephens@gmail.com)/Personal_Projects/WestBengal_Elections_May2018/Scripts/15May_Version3.py",
+		"/Users/apple/Google Drive (pjpaul.stephens@gmail.com)/Personal_Projects/WestBengal_Elections_May2018/Scripts/15May_Version2.py",
+		"/Users/apple/Google Drive (pjpaul.stephens@gmail.com)/Personal_Projects/WestBengal_Elections_May2018/Scripts/15May_Version5.py",
+		"/Users/apple/Google Drive (pjpaul.stephens@gmail.com)/Personal_Projects/WestBengal_Elections_May2018/Scripts/15May_Version4.py",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/3. Monitoring Strategy/Onboarding/Madhav/Readme.md",
+		"/Users/apple/Box Sync/Personal_Projects/Demo_NightLights/url_list.html",
+		"/Users/apple/Box Sync/Personal_Projects/Demo_NightLights/VIIRS_Tar_list.txt",
+		"/Users/apple/Box Sync/Personal_Projects/Outcome_Based_Poverty_Lines/code.do",
+		"/Users/apple/Dropbox (Personal)/Personal_Projects/Blogs/WIP/Stata_Simulations/vector_output.do",
+		"/Users/apple/Dropbox (Personal)/Personal_Projects/Blogs/WIP/Stata_Simulations/simulate_fish.do",
+		"/Users/apple/Dropbox (Personal)/Personal_Projects/Blogs/WIP/Stata_Simulations/random_sum.do",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/3. Monitoring Strategy/OSF Monitoring System Development/MS_Design_Reccomendation/Design_Recco_PJP_27March.md",
+		"/Users/apple/Desktop/Lucas_Review_21March/Analysis of Low Incomes/Analysis of Low Incomes/20171122 Negative Income Analysis - Yearly Crops.do",
+		"/Users/apple/Desktop/Lucas_Review_21March/Analysis of Low Incomes/Analysis of Low Incomes/20171122 Negative Income Analysis - Qty Harvest, Qty Sold, Qty Self-Consumption.do",
+		"/Users/apple/Desktop/Lucas_Review_21March/Analysis of Low Incomes/Analysis of Low Incomes/20171122 Negative Income Analysis - External Price Data.do",
+		"/Users/apple/Desktop/Lucas_Review_21March/Analysis of Low Incomes/Analysis of Low Incomes/20171122 Negative Income Analysis - Assuming all Crops Sold.do",
+		"/Users/apple/Desktop/Lucas_Review_21March/20171213 Income_Aggregate_ag_Gupta.do",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/3. Monitoring Strategy/OSF Monitoring System Development/MS_Design_Reccomendation/Design_Recco_PJP_20March.md",
+		"/Users/apple/Downloads/OSF_Timeline",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/3. Monitoring Strategy/OSF Monitoring System Development/Gap_Analysis/MS_Gap_Analysis_PJP_20March.md",
+		"/Users/apple/Desktop/Senthil Mullainathan Paper.txt",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/3. Monitoring Strategy/OSF Monitoring System Development/Design_Approach_Document/Monitoring_Approach_Document_13March.md",
+		"/Users/apple/Desktop/Do-file_SM (Chapter 1-5).do",
+		"/Users/apple/Dropbox (Personal)/Personal_Projects/Blogs/WIP/Ruth_Levine_Moral_Case/ruth_levine_moral_case_prep.md",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/8. Internal Documents - Concept Note, Recommendation, Approvals/March_2018_Menu_Options_Tata/Menu_Options_07March.md",
+		"/Users/apple/Desktop/Quillete_Response",
+		"/Users/apple/Desktop/Stata 101/Do-file_SM (Chapter 1-5).do",
+		"/Users/apple/Desktop/fishery (1).sql",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/8. Internal Documents - Concept Note, Recommendation, Approvals/March_2018_Menu_Options_Tata/Menu_Options_26Feb.md",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/8. Internal Documents - Concept Note, Recommendation, Approvals/March_2018_Menu_Options_Tata/TT_Slides_Shell.md",
+		"/Users/apple/Box Sync/Writing/Writing_PD_Packet/Resources/yodatsracist_Comment.md",
+		"/Users/apple/Box Sync/Writing/Writing_PD_Packet/Resources/Writing_Reddit_Comment.md",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/8. Internal Documents - Concept Note, Recommendation, Approvals/CRP_Incentive_Proposal/IDi_Responses_26Feb",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/8. Internal Documents - Concept Note, Recommendation, Approvals/CRP_Incentive_Proposal/IDi_Responses_26Feb.md",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/8. Internal Documents - Concept Note, Recommendation, Approvals/March_2018_Menu_Options_Tata/Menu_Options.md",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/3. Monitoring Strategy/Field_Visits/Jharkhand/Feb_05_09/Observations and Responses from the Jharkhand Field Visit.md",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/3. Monitoring Strategy/Field_Visits/Andhra_Pradesh/Vizianagaram_22_23Jan/Interview with Kartik Ramesh.md",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/3. Monitoring Strategy/Field_Visits/Jharkhand/Observations and Responses from the Jharkhand Fiel",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/3. Monitoring Strategy/Field_Visits/Vizianagaram_22_23Jan/Interview with Kartik Ramesh.md",
+		"/Users/apple/Desktop/PHP_Troubleshooting/import_facility_observations.do",
+		"/Users/apple/Desktop/PHP_Troubleshooting/Facilities_Obs_Group_Merge_PJP_07Nov.do",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/3. Monitoring Strategy/Field_Visits/Jharkhand/Plan_of_Action_JH_PJP_24Jan",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/3. Monitoring Strategy/Field_Visits/Jharkhand/Jh_FieldVisit_Qns_PJP_25Jan",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/3. Monitoring Strategy/Field_Visits/Jharkhand/Reqs_Jh_Field_Visit_25Jan_PJP",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/3. Monitoring Strategy/Field_Visits/Jharkhand/Beneficiary_Qns_PJP_25Jan",
+		"/Users/apple/exercism/python/isogram/isogram_v01.py",
+		"/Users/apple/exercism/python/leap/leap.py",
+		"/Users/apple/exercism/python/isogram/isogram_test.py",
+		"/Users/apple/exercism/python/hello-world/hello_world.py",
+		"/Users/apple/exercism/python/Exercism Python Track.md",
+		"/Users/apple/Dropbox (IDinsight)/BMGF UNICEF WASH Initiative/UNICEF Philippines/HiFive Data_Flow/04_Data_Quality_Checks/DQ_Check_Notes/Pupil_Squrvey_DQ_Responses_06Dec.md",
+		"/Users/apple/Dropbox (IDinsight)/BMGF UNICEF WASH Initiative/UNICEF Philippines/HiFive Data_Flow/05_Back_Check_Datasets/Backcheck_Roster_do_Files/Back_Check_School_Selection",
+		"/Users/apple/Dropbox (IDinsight)/00 SERP-CEC/05 Impact Evaluation/01 IDinsight Documents/Sampling/Paul/Treatment_Village_Sample_Selection_Files/Do files/village_list_template_Oct.do",
+		"/Users/apple/Dropbox (IDinsight)/BMGF UNICEF WASH Initiative/UNICEF Philippines/HiFive Data_Flow/04_Data_Quality_Checks/DQ_Classroom_Obs_PJP.do",
+		"/Users/apple/Dropbox (IDinsight)/BMGF UNICEF WASH Initiative/UNICEF Philippines/HiFive Data_Flow/04_Data_Quality_Checks/DQ_Facilities_Obs_PJP.do",
+		"/Users/apple/Dropbox (IDinsight)/BMGF UNICEF WASH Initiative/UNICEF Philippines/HiFive Data_Flow/04_Data_Quality_Checks/DQ_Classroom_Facility_Merge.do",
+		"/Users/apple/Dropbox (IDinsight)/BMGF UNICEF WASH Initiative/UNICEF Philippines/HiFive Data_Flow/03_Merged_Data/01_Merging_do_Files/Classroom_Facility_Merge_PJP_13Mov.do",
+		"/Users/apple/Dropbox (IDinsight)/BMGF UNICEF WASH Initiative/UNICEF Philippines/HiFive Data_Flow/04_Data_Quality_Checks/logs/classroom_dq_output-2017-11-15.txt",
+		"/Users/apple/Dropbox (IDinsight)/BMGF UNICEF WASH Initiative/UNICEF Philippines/HiFive Data_Flow/04_Data_Quality_Checks/logs/output_facility_count.txt",
+		"/Users/apple/Dropbox (IDinsight)/BMGF UNICEF WASH Initiative/UNICEF Philippines/HiFive Data_Flow/02_Cleaned_Data/03_Cleaned_dta_Files/mylog_table.txt",
+		"/Users/apple/Dropbox (IDinsight)/BMGF UNICEF WASH Initiative/UNICEF Philippines/HiFive Data_Flow/01_Raw_Data/02_SurveyCTO_do_Files/Master_Export_PJP_07Nov.do",
+		"/Users/apple/Dropbox (IDinsight)/BMGF UNICEF WASH Initiative/UNICEF Philippines/HiFive Data_Flow/02_Cleaned_Data/01_Cleaning_do_Files/Running log of DQ check ideas2",
+		"/Users/apple/Dropbox (IDinsight)/BMGF UNICEF WASH Initiative/UNICEF Philippines/HiFive Data_Flow/04_Data_Quality_Checks/Observations from review of pilot data",
+		"/Users/apple/Dropbox (IDinsight)/BMGF UNICEF WASH Initiative/UNICEF Philippines/HiFive Data_Flow/04_Data_Quality_Checks/DQ_Checks_CN/Observations from review of pilot data",
+		"/Users/apple/Dropbox (IDinsight)/00 SERP-CEC/05 Impact Evaluation/01 IDinsight Documents/Baseline Data/Raw_DQ_Checks/Do_Files/BL_Data_Import.do",
+		"/Users/apple/Dropbox (IDinsight)/BMGF UNICEF WASH Initiative/UNICEF Philippines/Presentations & workflow/7 Hi-Five evaluation/11 End-line survey/Data_Flow/02_Cleaned_Data/01_Cleaning_do_Files/Classroom_Obs_Group_Merge_PJP_05Nov.do",
+		"/Users/apple/Dropbox (IDinsight)/BMGF UNICEF WASH Initiative/UNICEF Philippines/Presentations & workflow/7 Hi-Five evaluation/11 End-line survey/Data_Flow/01_Raw_Data/02_SurveyCTO_do_Files/Master_Export_PJP_07Nov.do",
+		"/Users/apple/Dropbox (IDinsight)/BMGF UNICEF WASH Initiative/UNICEF Philippines/Presentations & workflow/7 Hi-Five evaluation/11 End-line survey/Data_Flow/02_Cleaned_Data/01_Cleaning_do_Files/Facilities_Obs_Group_Merge_PJP_07Nov.do",
+		"/Users/apple/Dropbox (IDinsight)/BMGF UNICEF WASH Initiative/UNICEF Philippines/Presentations & workflow/7 Hi-Five evaluation/11 End-line survey/Data_Flow/02_Cleaned_Data/01_Cleaning_do_Files/Running log of DQ check ideas",
+		"/Users/apple/Dropbox (IDinsight)/Technical Bootcamp_Delhi 2016/Sessions/Data Analysis/Data Analysis Examples.do"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"append",
+			"''\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "01.Analysis_01.do",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11158,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9541,
+								9541
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										9561,
+										9562
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										9537,
+										9538
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Stata Improved Editor/Stata.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3252.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2126,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								353,
+								353
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Please form a group of everybody who's interested",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"default_dir": "/Users/paulpj/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts/02.Data_Analysis",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 307,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								70,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Mapping Group Invite: https://chat.whatsapp.com/49",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"default_dir": "/Users/paulpj/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts/02.Data_Analysis",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 977,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								977
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Guys,",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"default_dir": "/Users/paulpj/Library/Application Support/Sublime Text 3/Packages/User/Snippets",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1380,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								448,
+								448
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Ms Latha,",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"default_dir": "/Users/paulpj/Library/Application Support/Sublime Text 3/Packages/User/Snippets",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/paulpj/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts/01.Data_Cleaning/07.My_Neta_Clean.do",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1592,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1587,
+								1587
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/Stata Improved Editor/Stata.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 57.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/paulpj/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts/01.Data_Cleaning/05.clean_assembly_constituency.do",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5262,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								5262
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/Stata Improved Editor/Stata.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1452.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 29.0
+	},
+	"output.find_results":
+	{
+		"height": 114.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 25.0
+	},
+	"pinned_build_system": "",
+	"project": "WB_Analysis.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 364.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

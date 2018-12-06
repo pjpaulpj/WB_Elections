@@ -1,0 +1,1500 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"aitc",
+				"aitc_winner_serious_criminal"
+			],
+			[
+				"bjp",
+				"bjp_winner"
+			],
+			[
+				"m",
+				"myneta_ac_summary"
+			],
+			[
+				"winner",
+				"winner_criminal"
+			],
+			[
+				"merge",
+				"merge_winners"
+			],
+			[
+				"data",
+				"data_ward"
+			],
+			[
+				"data_ac",
+				"data_ac_processed"
+			],
+			[
+				"const",
+				"const_id"
+			],
+			[
+				"merg",
+				"merge_winners"
+			],
+			[
+				"cons",
+				"const_name"
+			],
+			[
+				"candi",
+				"candidate_name"
+			],
+			[
+				"cand",
+				"candidate_name"
+			],
+			[
+				"can",
+				"can_2016"
+			],
+			[
+				"winners",
+				"winners_2016"
+			],
+			[
+				"data_m",
+				"data_myneta"
+			],
+			[
+				"mean",
+				"mean_ward_bjp_comp"
+			],
+			[
+				"vote",
+				"vote_share_percentage2014_AITC"
+			],
+			[
+				"ait",
+				"aitc_growth_2"
+			],
+			[
+				"an",
+				"any_contest"
+			],
+			[
+				"total",
+				"total_2018"
+			],
+			[
+				"war",
+				"ward_ac_election_merge"
+			],
+			[
+				"par",
+				"party_year_dupe"
+			],
+			[
+				"part",
+				"party_year"
+			],
+			[
+				"str",
+				"str_year"
+			],
+			[
+				"ac",
+				"ac_11_14_16"
+			],
+			[
+				"constitu",
+				"constituency_no"
+			],
+			[
+				"vot",
+				"vote_share_percentage"
+			],
+			[
+				"ass",
+				"assembly_no"
+			],
+			[
+				"mul",
+				"multi_ac_count"
+			],
+			[
+				"wb",
+				"wb_map_db"
+			],
+			[
+				"gp",
+				"gp_census_ec"
+			],
+			[
+				"wb_",
+				"wb_ac_map"
+			],
+			[
+				"cens",
+				"census_2011"
+			],
+			[
+				"repl",
+				"repl_geo\trepl_geo"
+			],
+			[
+				"outcome",
+				"outcome_count"
+			],
+			[
+				"out",
+				"outcome_count"
+			],
+			[
+				"avc",
+				"avc_temp"
+			],
+			[
+				"ins",
+				"insample_n"
+			],
+			[
+				"insample",
+				"insample_n"
+			],
+			[
+				"insamp",
+				"insample_n"
+			],
+			[
+				"insam",
+				"insample_2"
+			],
+			[
+				"outc",
+				"outcomes"
+			],
+			[
+				"shee",
+				"sheet_name"
+			],
+			[
+				"expo",
+				"export_target"
+			],
+			[
+				"summary",
+				"summary_n"
+			],
+			[
+				"pack",
+				"packB"
+			],
+			[
+				"Candi",
+				"Candidate_Clean"
+			],
+			[
+				"Parl",
+				"Parliamentary_Constituency_No"
+			],
+			[
+				"candidat",
+				"candidate_names"
+			],
+			[
+				"tcpd",
+				"tcpd_data_clean"
+			],
+			[
+				"Cand",
+				"Candidate_Clean"
+			],
+			[
+				"Candidat",
+				"Candidate_"
+			],
+			[
+				"Candid",
+				"Candidate_"
+			],
+			[
+				"avc_",
+				"avc_stars"
+			],
+			[
+				"summ",
+				"summary_sd"
+			],
+			[
+				"var",
+				"var_count"
+			],
+			[
+				"row",
+				"row_plus"
+			],
+			[
+				"mat",
+				"mat_row"
+			],
+			[
+				"summa",
+				"summary_vars"
+			],
+			[
+				"Stata",
+				"StatTotal"
+			],
+			[
+				"summar",
+				"Summary"
+			],
+			[
+				"rand",
+				"rand_3"
+			],
+			[
+				"pote",
+				"potential_treatment_villages"
+			],
+			[
+				"cli",
+				"climatic_zone"
+			],
+			[
+				"ent",
+				"entry_id"
+			],
+			[
+				"block_",
+				"block_key"
+			],
+			[
+				"dist",
+				"dist_status_get"
+			],
+			[
+				"load",
+				"load_saved_data"
+			],
+			[
+				"district_input",
+				"district_input_list2"
+			],
+			[
+				"district_inp",
+				"district_input_list"
+			],
+			[
+				"paralle",
+				"parallel_fn"
+			],
+			[
+				"sd",
+				"sd_var"
+			],
+			[
+				"vector",
+				"vector_out"
+			],
+			[
+				"strat",
+				"strata_mean"
+			],
+			[
+				"strata",
+				"strata_rank"
+			],
+			[
+				"stra",
+				"strata_mean"
+			],
+			[
+				"error",
+				"error_norm_1"
+			],
+			[
+				"est",
+				"est_mortality"
+			],
+			[
+				"true",
+				"true_mortality"
+			],
+			[
+				"cond",
+				"cond2"
+			],
+			[
+				"c",
+				"condition1"
+			],
+			[
+				"pup",
+				"pupil_obs_trigger"
+			],
+			[
+				"grade",
+				"grade_string"
+			],
+			[
+				"sc",
+				"school_code"
+			],
+			[
+				"grad",
+				"grade_listing"
+			],
+			[
+				"class",
+				"class_section_unique"
+			],
+			[
+				"class_se",
+				"class_section_unique"
+			],
+			[
+				"sec",
+				"section_count_index"
+			],
+			[
+				"faci",
+				"facility_section"
+			],
+			[
+				"pupil",
+				"pupil_obs_count"
+			],
+			[
+				"uplo",
+				"upload_delay"
+			],
+			[
+				"div",
+				"division_name"
+			],
+			[
+				"by",
+				"bysort"
+			],
+			[
+				"divi",
+				"division_name"
+			],
+			[
+				"Ge",
+				"General_Flag"
+			],
+			[
+				"iter",
+				"iter2"
+			],
+			[
+				"Indi",
+				"Indicator_num"
+			],
+			[
+				"cat",
+				"cat_grade"
+			],
+			[
+				"gr",
+				"grade_cat_string"
+			],
+			[
+				"uniq",
+				"unique_section_count"
+			],
+			[
+				"facil",
+				"facility_grade"
+			],
+			[
+				"grade_ca",
+				"grade_cat_string"
+			],
+			[
+				"sect",
+				"sect_h\tstata_section"
+			],
+			[
+				"tem",
+				"temp_school_key"
+			],
+			[
+				"temp",
+				"tempfile"
+			],
+			[
+				"schoo",
+				"school"
+			],
+			[
+				"sch",
+				"school"
+			],
+			[
+				"grade_c",
+				"grade_cat_string"
+			],
+			[
+				"qual",
+				"qual_grade_13"
+			],
+			[
+				"po",
+				"potential_qual"
+			],
+			[
+				"teacher",
+				"teacher_permit"
+			],
+			[
+				"len",
+				"len_grad13"
+			],
+			[
+				"facility",
+				"facility_grade"
+			],
+			[
+				"facili",
+				"facility_grade"
+			],
+			[
+				"hw",
+				"hw_type"
+			],
+			[
+				"obser",
+				"observer_name"
+			],
+			[
+				"divis",
+				"division_name"
+			],
+			[
+				"toil",
+				"toilet_class"
+			],
+			[
+				"toilet",
+				"toilet_dummy"
+			],
+			[
+				"fac",
+				"facility_error"
+			],
+			[
+				"log",
+				"logdate"
+			],
+			[
+				"mas",
+				"master_unmatched"
+			],
+			[
+				"master",
+				"master_unmatched"
+			],
+			[
+				"mer",
+				"merge_fac_class"
+			],
+			[
+				"mast",
+				"master_unmatched"
+			],
+			[
+				"dupe",
+				"dupe_index_grade"
+			],
+			[
+				"st",
+				"starttime"
+			],
+			[
+				"path",
+				"path_do_files"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "07.My_Neta_Merge.do",
+			"settings":
+			{
+				"buffer_size": 2654,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "06.clean_assembly_constituency.do",
+			"settings":
+			{
+				"buffer_size": 3984,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/apple/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts/02.Data_Analysis/01.Analysis_1.do",
+			"settings":
+			{
+				"buffer_size": 5955,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Stata Improved Editor/Stata.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Stata Improved Editor/Stata.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 179.0,
+		"last_filter": "comme",
+		"selected_items":
+		[
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"Search",
+				"File: Search Files"
+			],
+			[
+				"search",
+				"File: Search Files"
+			],
+			[
+				"term",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"termin",
+				"Terminal: Open"
+			],
+			[
+				"late",
+				"LaTeXBox: View PDF"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pand",
+				"Pandoc"
+			],
+			[
+				"cheatsheet",
+				"Cheatsheet: JIRA"
+			],
+			[
+				"pando",
+				"Pandoc"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"terminal",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"t",
+				"Terminal: Open"
+			],
+			[
+				"stat ",
+				"Set Syntax: Stata"
+			],
+			[
+				"p",
+				"Pandoc"
+			],
+			[
+				"package res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/apple/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts",
+		"/Users/apple/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts/02.Data_Analysis"
+	],
+	"file_history":
+	[
+		"/Users/apple/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts/01.Data_Cleaning/clean_assembly_constituency.do",
+		"/Users/apple/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts/01.Data_Cleaning/merge_EC_gp_Census_AC.do",
+		"/Users/apple/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts/01.Data_Cleaning/merge_ward_census_panchayat_21June.do",
+		"/Users/apple/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts/01.Data_Cleaning/clean_WB_LS_AC_Level_2014.do",
+		"/Users/apple/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts/01.Data_Cleaning/clean_lg_data_19June.do",
+		"/Users/apple/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts/01.Data_Cleaning/clean_ward_data.py",
+		"/Users/apple/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts/01.Data_Cleaning/map_db_setup.sql",
+		"/Users/apple/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts/01.Data_Cleaning/map_data_extraction.sql",
+		"/Users/apple/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts/01.Data_Cleaning/extract_panchayat_names.sh",
+		"/Users/apple/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts/01.Data_Cleaning/201806241547 jfsk.md",
+		"/Users/apple/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts/01.Data_Cleaning/test1.sh",
+		"/Users/apple/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts/01.Data_Cleaning/201806241421  jsfsf.md",
+		"/Users/apple/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts/01.Data_Cleaning/201806241354 .md",
+		"/Users/apple/Dropbox (IDinsight)/Plexus_Publication/999.PJP_Folder/Do_Files/References/Qayam_Putexcel.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus_Publication/999.PJP_Folder/Do_Files/References/DT_Putexcel.do",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/1. Evidence Generation (Science)/Do files for review/CC Fry Experiment Master Do File.do",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/1. Evidence Generation (Science)/Do files for review/CC Fry Individual Weight Scatterplot 2018-05-31 MS.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus_Publication/1. Tiered Farmer Support/12.PJP_Do_Files/parallel_loop.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus_Publication/1_Tiered_Farmer_Support/12.PJP_Do_Files/References/DT_Putexcel.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus_Publication/1_Tiered_Farmer_Support/12.PJP_Do_Files/References/Qayam_Putexcel.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus_Publication/1. Tiered Farmer Support/12.PJP_Do_Files/Table_01_SummaryStats_PJP_07June.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus_Publication/1_Tiered_Farmer_Support/12.PJP_Do_Files/Table_01_SummaryStats_PJP_07June.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus_Publication/1_Tiered_Farmer_Support/12.PJP_Do_Files/random.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus_Publication/999.PJP_Folder/Analysis_Regressions_v2.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus_Publication/1_Tiered_Farmer_Support/4. Analysis/1. Do Files/Preparing Diff-in-Diff Datasets.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus_Publication/1_Tiered_Farmer_Support/4. Analysis/1. Do Files/Plexus_Analysis_v9.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus publication/999.PJP_Folder/Analysis_Regressions_v2.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus publication/1. Tiered Farmer Support/4. Analysis/1. Do Files/Cleaning_2016data.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus publication/1. Tiered Farmer Support/4. Analysis/1. Do Files/Cleaning_2017data.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus publication/1. Tiered Farmer Support/4. Analysis/1. Do Files/Plexus_Analysis_v9.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus publication/1. Tiered Farmer Support/4. Analysis/1. Do Files/Plexus_Final_Cleaning_v4.do",
+		"/Users/apple/Dropbox (IDinsight)/Plexus publication/1. Tiered Farmer Support/4. Analysis/1. Do Files/Preparing Diff-in-Diff Datasets.do",
+		"/Users/apple/Dropbox (IDinsight)/PJ Paul_Admin Folder/PSM_VS_Matching/psm_matching.do",
+		"/Users/apple/GoogleDrive/Latex_Templates/math_uwaterloo.tex",
+		"/Users/apple/Library/Application Support/Sublime Text 3/Packages/Cheatsheet/database/tools/issue-tracking/jira.cheatsheet",
+		"/Users/apple/Google Drive (pjpaul.stephens@gmail.com)/Personal_Projects/WestBengal_Elections_May2018/Scripts/17May_Cache_Version.py",
+		"/Users/apple/Google Drive (pjpaul.stephens@gmail.com)/Personal_Projects/WestBengal_Elections_May2018/Scripts/dist_status.pickle",
+		"/Users/apple/Google Drive (pjpaul.stephens@gmail.com)/Personal_Projects/WestBengal_Elections_May2018/Scripts/15May_Version1.py",
+		"/Users/apple/Google Drive (pjpaul.stephens@gmail.com)/Personal_Projects/WestBengal_Elections_May2018/Scripts/test_1.csv",
+		"/Users/apple/Google Drive (pjpaul.stephens@gmail.com)/Personal_Projects/WestBengal_Elections_May2018/Scripts/Testfile.py",
+		"/Users/apple/Google Drive (pjpaul.stephens@gmail.com)/Personal_Projects/WestBengal_Elections_May2018/Scripts/16May_Version_Parallel.py",
+		"/Users/apple/Google Drive (pjpaul.stephens@gmail.com)/Personal_Projects/WestBengal_Elections_May2018/Scripts/15May_Version3.py",
+		"/Users/apple/Google Drive (pjpaul.stephens@gmail.com)/Personal_Projects/WestBengal_Elections_May2018/Scripts/15May_Version2.py",
+		"/Users/apple/Google Drive (pjpaul.stephens@gmail.com)/Personal_Projects/WestBengal_Elections_May2018/Scripts/15May_Version5.py",
+		"/Users/apple/Google Drive (pjpaul.stephens@gmail.com)/Personal_Projects/WestBengal_Elections_May2018/Scripts/15May_Version4.py",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/3. Monitoring Strategy/Onboarding/Madhav/Readme.md",
+		"/Users/apple/Box Sync/Personal_Projects/Demo_NightLights/url_list.html",
+		"/Users/apple/Box Sync/Personal_Projects/Demo_NightLights/VIIRS_Tar_list.txt",
+		"/Users/apple/Box Sync/Personal_Projects/Outcome_Based_Poverty_Lines/code.do",
+		"/Users/apple/Dropbox (Personal)/Personal_Projects/Blogs/WIP/Stata_Simulations/vector_output.do",
+		"/Users/apple/Dropbox (Personal)/Personal_Projects/Blogs/WIP/Stata_Simulations/simulate_fish.do",
+		"/Users/apple/Dropbox (Personal)/Personal_Projects/Blogs/WIP/Stata_Simulations/random_sum.do",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/3. Monitoring Strategy/OSF Monitoring System Development/MS_Design_Reccomendation/Design_Recco_PJP_27March.md",
+		"/Users/apple/Desktop/Lucas_Review_21March/Analysis of Low Incomes/Analysis of Low Incomes/20171122 Negative Income Analysis - Yearly Crops.do",
+		"/Users/apple/Desktop/Lucas_Review_21March/Analysis of Low Incomes/Analysis of Low Incomes/20171122 Negative Income Analysis - Qty Harvest, Qty Sold, Qty Self-Consumption.do",
+		"/Users/apple/Desktop/Lucas_Review_21March/Analysis of Low Incomes/Analysis of Low Incomes/20171122 Negative Income Analysis - External Price Data.do",
+		"/Users/apple/Desktop/Lucas_Review_21March/Analysis of Low Incomes/Analysis of Low Incomes/20171122 Negative Income Analysis - Assuming all Crops Sold.do",
+		"/Users/apple/Desktop/Lucas_Review_21March/20171213 Income_Aggregate_ag_Gupta.do",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/3. Monitoring Strategy/OSF Monitoring System Development/MS_Design_Reccomendation/Design_Recco_PJP_20March.md",
+		"/Users/apple/Downloads/OSF_Timeline",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/3. Monitoring Strategy/OSF Monitoring System Development/Gap_Analysis/MS_Gap_Analysis_PJP_20March.md",
+		"/Users/apple/Desktop/Senthil Mullainathan Paper.txt",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/3. Monitoring Strategy/OSF Monitoring System Development/Design_Approach_Document/Monitoring_Approach_Document_13March.md",
+		"/Users/apple/Desktop/Do-file_SM (Chapter 1-5).do",
+		"/Users/apple/Dropbox (Personal)/Personal_Projects/Blogs/WIP/Ruth_Levine_Moral_Case/ruth_levine_moral_case_prep.md",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/8. Internal Documents - Concept Note, Recommendation, Approvals/March_2018_Menu_Options_Tata/Menu_Options_07March.md",
+		"/Users/apple/Desktop/Quillete_Response",
+		"/Users/apple/Desktop/Stata 101/Do-file_SM (Chapter 1-5).do",
+		"/Users/apple/Desktop/fishery (1).sql",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/8. Internal Documents - Concept Note, Recommendation, Approvals/March_2018_Menu_Options_Tata/Menu_Options_26Feb.md",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/8. Internal Documents - Concept Note, Recommendation, Approvals/March_2018_Menu_Options_Tata/TT_Slides_Shell.md",
+		"/Users/apple/Box Sync/Writing/Writing_PD_Packet/Resources/yodatsracist_Comment.md",
+		"/Users/apple/Box Sync/Writing/Writing_PD_Packet/Resources/Writing_Reddit_Comment.md",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/8. Internal Documents - Concept Note, Recommendation, Approvals/CRP_Incentive_Proposal/IDi_Responses_26Feb",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/8. Internal Documents - Concept Note, Recommendation, Approvals/CRP_Incentive_Proposal/IDi_Responses_26Feb.md",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/8. Internal Documents - Concept Note, Recommendation, Approvals/March_2018_Menu_Options_Tata/Menu_Options.md",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/3. Monitoring Strategy/Field_Visits/Jharkhand/Feb_05_09/Observations and Responses from the Jharkhand Field Visit.md",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/3. Monitoring Strategy/Field_Visits/Andhra_Pradesh/Vizianagaram_22_23Jan/Interview with Kartik Ramesh.md",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/3. Monitoring Strategy/Field_Visits/Jharkhand/Observations and Responses from the Jharkhand Fiel",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/3. Monitoring Strategy/Field_Visits/Vizianagaram_22_23Jan/Interview with Kartik Ramesh.md",
+		"/Users/apple/Desktop/PHP_Troubleshooting/import_facility_observations.do",
+		"/Users/apple/Desktop/PHP_Troubleshooting/Facilities_Obs_Group_Merge_PJP_07Nov.do",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/3. Monitoring Strategy/Field_Visits/Jharkhand/Plan_of_Action_JH_PJP_24Jan",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/3. Monitoring Strategy/Field_Visits/Jharkhand/Jh_FieldVisit_Qns_PJP_25Jan",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/3. Monitoring Strategy/Field_Visits/Jharkhand/Reqs_Jh_Field_Visit_25Jan_PJP",
+		"/Users/apple/Dropbox (IDinsight)/Tata Trusts OSF/3. Monitoring Strategy/Field_Visits/Jharkhand/Beneficiary_Qns_PJP_25Jan",
+		"/Users/apple/exercism/python/isogram/isogram_v01.py",
+		"/Users/apple/exercism/python/leap/leap.py",
+		"/Users/apple/exercism/python/isogram/isogram_test.py",
+		"/Users/apple/exercism/python/hello-world/hello_world.py",
+		"/Users/apple/exercism/python/Exercism Python Track.md",
+		"/Users/apple/Dropbox (IDinsight)/BMGF UNICEF WASH Initiative/UNICEF Philippines/HiFive Data_Flow/04_Data_Quality_Checks/DQ_Check_Notes/Pupil_Squrvey_DQ_Responses_06Dec.md",
+		"/Users/apple/Dropbox (IDinsight)/BMGF UNICEF WASH Initiative/UNICEF Philippines/HiFive Data_Flow/05_Back_Check_Datasets/Backcheck_Roster_do_Files/Back_Check_School_Selection",
+		"/Users/apple/Dropbox (IDinsight)/00 SERP-CEC/05 Impact Evaluation/01 IDinsight Documents/Sampling/Paul/Treatment_Village_Sample_Selection_Files/Do files/village_list_template_Oct.do",
+		"/Users/apple/Dropbox (IDinsight)/BMGF UNICEF WASH Initiative/UNICEF Philippines/HiFive Data_Flow/04_Data_Quality_Checks/DQ_Classroom_Obs_PJP.do",
+		"/Users/apple/Dropbox (IDinsight)/BMGF UNICEF WASH Initiative/UNICEF Philippines/HiFive Data_Flow/04_Data_Quality_Checks/DQ_Facilities_Obs_PJP.do",
+		"/Users/apple/Dropbox (IDinsight)/BMGF UNICEF WASH Initiative/UNICEF Philippines/HiFive Data_Flow/04_Data_Quality_Checks/DQ_Classroom_Facility_Merge.do",
+		"/Users/apple/Dropbox (IDinsight)/BMGF UNICEF WASH Initiative/UNICEF Philippines/HiFive Data_Flow/03_Merged_Data/01_Merging_do_Files/Classroom_Facility_Merge_PJP_13Mov.do",
+		"/Users/apple/Dropbox (IDinsight)/BMGF UNICEF WASH Initiative/UNICEF Philippines/HiFive Data_Flow/04_Data_Quality_Checks/logs/classroom_dq_output-2017-11-15.txt",
+		"/Users/apple/Dropbox (IDinsight)/BMGF UNICEF WASH Initiative/UNICEF Philippines/HiFive Data_Flow/04_Data_Quality_Checks/logs/output_facility_count.txt",
+		"/Users/apple/Dropbox (IDinsight)/BMGF UNICEF WASH Initiative/UNICEF Philippines/HiFive Data_Flow/02_Cleaned_Data/03_Cleaned_dta_Files/mylog_table.txt",
+		"/Users/apple/Dropbox (IDinsight)/BMGF UNICEF WASH Initiative/UNICEF Philippines/HiFive Data_Flow/01_Raw_Data/02_SurveyCTO_do_Files/Master_Export_PJP_07Nov.do",
+		"/Users/apple/Dropbox (IDinsight)/BMGF UNICEF WASH Initiative/UNICEF Philippines/HiFive Data_Flow/02_Cleaned_Data/01_Cleaning_do_Files/Running log of DQ check ideas2",
+		"/Users/apple/Dropbox (IDinsight)/BMGF UNICEF WASH Initiative/UNICEF Philippines/HiFive Data_Flow/04_Data_Quality_Checks/Observations from review of pilot data",
+		"/Users/apple/Dropbox (IDinsight)/BMGF UNICEF WASH Initiative/UNICEF Philippines/HiFive Data_Flow/04_Data_Quality_Checks/DQ_Checks_CN/Observations from review of pilot data",
+		"/Users/apple/Dropbox (IDinsight)/00 SERP-CEC/05 Impact Evaluation/01 IDinsight Documents/Baseline Data/Raw_DQ_Checks/Do_Files/BL_Data_Import.do",
+		"/Users/apple/Dropbox (IDinsight)/BMGF UNICEF WASH Initiative/UNICEF Philippines/Presentations & workflow/7 Hi-Five evaluation/11 End-line survey/Data_Flow/02_Cleaned_Data/01_Cleaning_do_Files/Classroom_Obs_Group_Merge_PJP_05Nov.do",
+		"/Users/apple/Dropbox (IDinsight)/BMGF UNICEF WASH Initiative/UNICEF Philippines/Presentations & workflow/7 Hi-Five evaluation/11 End-line survey/Data_Flow/01_Raw_Data/02_SurveyCTO_do_Files/Master_Export_PJP_07Nov.do",
+		"/Users/apple/Dropbox (IDinsight)/BMGF UNICEF WASH Initiative/UNICEF Philippines/Presentations & workflow/7 Hi-Five evaluation/11 End-line survey/Data_Flow/02_Cleaned_Data/01_Cleaning_do_Files/Facilities_Obs_Group_Merge_PJP_07Nov.do",
+		"/Users/apple/Dropbox (IDinsight)/BMGF UNICEF WASH Initiative/UNICEF Philippines/Presentations & workflow/7 Hi-Five evaluation/11 End-line survey/Data_Flow/02_Cleaned_Data/01_Cleaning_do_Files/Running log of DQ check ideas",
+		"/Users/apple/Dropbox (IDinsight)/Technical Bootcamp_Delhi 2016/Sessions/Data Analysis/Data Analysis Examples.do",
+		"/Users/apple/Dropbox (IDinsight)/BMGF UNICEF WASH Initiative/UNICEF Philippines/Presentations & workflow/7 Hi-Five evaluation/11 End-line survey/Data_Flow/01_Raw_Data/03_Raw_dta_Files/import_facility_observations-facility_information.do",
+		"/Users/apple/Dropbox (IDinsight)/00 SERP-CEC/05 Impact Evaluation/01 IDinsight Documents/Sampling/Paul/Baseline_HH_RRC_Sampling/Do_Files_Round_1_2_Combined/Problem Village Sample_v1_PJP_16Sept_2017.do",
+		"/Users/apple/Dropbox (IDinsight)/BMGF UNICEF WASH Initiative/UNICEF Philippines/Presentations & workflow/7 Hi-Five evaluation/11 End-line survey/Data Collection Protocol/BackCheckProtocol_04Nov_PJP.md",
+		"/Users/apple/Downloads/Response_to_Ron",
+		"/Users/apple/Downloads/ranom_tester-seed_gen.csv",
+		"/indexed-repeat(${section_count},${section_listing_",
+		"/Users/apple/Desktop/random",
+		"/Users/apple/Dropbox (IDinsight)/00 SERP-CEC/05 Impact Evaluation/01 IDinsight Documents/Baseline Data/Backcheck_DQ_checks/Do/20170718_BL_BackChecks_HH_VC_PJP.do",
+		"/Users/apple/Dropbox (IDinsight)/PJ Paul_Admin Folder/Misc_Work/Lucas_Income_Code_Review_Sept2017/Income_aggregate_LK.do",
+		"/Users/apple/Dropbox (IDinsight)/00 SERP-CEC/05 Impact Evaluation/01 IDinsight Documents/Sampling/Paul/Baseline_HH_RRC_Sampling/Do_Files_Round_1_2_Combined/Final_Problem_Village_Cleaning_PJP_16Sept_2017.do",
+		"/Users/apple/Dropbox (IDinsight)/00 SERP-CEC/05 Impact Evaluation/01 IDinsight Documents/Sampling/Paul/Baseline_HH_RRC_Sampling/Do_Files_Round_1_2_Combined/Final_HH_Samplingv2_PJP_16Sept_2017.do",
+		"/Users/apple/Dropbox (IDinsight)/00 SERP-CEC/05 Impact Evaluation/01 IDinsight Documents/Sampling/Paul/Baseline_HH_RRC_Sampling/Do_Files_Round_1_2_Combined/Directory_Structure.txt",
+		"/Users/apple/Dropbox (IDinsight)/00 SERP-CEC/05 Impact Evaluation/01 IDinsight Documents/Sampling/Paul/Baseline_HH_RRC_Sampling/Do_Files_Round_1_2_Combined/Directory_Structure",
+		"/Users/apple/Dropbox (IDinsight)/PJ Paul_Admin Folder/Akshat_Resample/DoFiles/Problem Village Sample_v1_PJP_16Sept_2017.do",
+		"/Users/apple/Dropbox (IDinsight)/PJ Paul_Admin Folder/Akshat_Resample/DoFiles/Final_Problem_Village_Cleaning_PJP_16Sept_2017.do",
+		"/Users/apple/Dropbox (IDinsight)/PJ Paul_Admin Folder/Akshat_Resample/DoFiles/Final_HH_Samplingv2_PJP_16Sept_2017.do",
+		"/Users/apple/Dropbox (IDinsight)/PJ Paul_Admin Folder/Akshat_Resample/Final_Problem_Village_Sampling AG v1.do"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Personal_Projects"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "07.My_Neta_Merge.do",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2654,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2119,
+								2119
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 1744,
+								"count": 189,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/Stata Improved Editor/Stata.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "06.clean_assembly_constituency.do",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3984,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2773,
+								2773
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 123,
+								"count": 243,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/Stata Improved Editor/Stata.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1583.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/apple/GoogleDrive/Personal_Projects/WestBengal_Elections_May2018/Scripts/02.Data_Analysis/01.Analysis_1.do",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5955,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4610,
+								4610
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 1281,
+								"count": 355,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"auto_name": "",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/Stata Improved Editor/Stata.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2201.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 29.0
+	},
+	"output.find_results":
+	{
+		"height": 114.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 25.0
+	},
+	"pinned_build_system": "",
+	"project": "WB_Data_Cleaning.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"wage_sal-BC_DQ_Checks_27Sept_PJP.do"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 304.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
